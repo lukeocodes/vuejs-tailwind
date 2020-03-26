@@ -1,4 +1,4 @@
-# tailwind-vue-app
+# Starter App - Vue.js with Tailwind
 
 ## Project setup
 ```
@@ -20,6 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vuejs-tailwind
+### Customize application
+
+[Vue.js docs](https://vuejs.org/) and [Tailwind CSS docs](https://tailwindcss.com/).
